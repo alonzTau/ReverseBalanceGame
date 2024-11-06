@@ -1,0 +1,10 @@
+numpy
+scipy
+spatialmath
+tkinter
+pyzed
+OpenCV
+matplotlib
+open3d
+sklearn
+rmplab_uri
